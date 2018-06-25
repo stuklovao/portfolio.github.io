@@ -4,6 +4,7 @@
 2. [Express](https://github.com/stuklovao/Express) 
 3. [Сессии в Express](https://github.com/stuklovao/express_session)
 4. [Клиентский роутер + Material design](https://github.com/stuklovao/router)
+5. [Борд](https://kodaktor.ru/3ae91f2)
 
 Проекты:
 1. Приложение на фреймворке Silex, размещённое на Heroku.
@@ -20,4 +21,6 @@
 
 [Авторы](https://molpik.herokuapp.com/author)
 
-[Клиентская часть](https://kodaktor.ru/?!=157f210)
+[Клиентская часть](https://kodaktor.ru/157f210)
+
+[Презентация](https://slides.com/molpik/deck-1#/)
